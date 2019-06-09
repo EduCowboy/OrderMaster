@@ -1,0 +1,14 @@
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/bin/Debug/netcoreapp2.2/OrderMasterAPI.deps.json
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/bin/Debug/netcoreapp2.2/OrderMasterAPI.runtimeconfig.json
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/bin/Debug/netcoreapp2.2/OrderMasterAPI.runtimeconfig.dev.json
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/bin/Debug/netcoreapp2.2/OrderMasterAPI.dll
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/bin/Debug/netcoreapp2.2/OrderMasterAPI.pdb
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/obj/Debug/netcoreapp2.2/OrderMasterAPI.csprojAssemblyReference.cache
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/obj/Debug/netcoreapp2.2/OrderMasterAPI.csproj.CoreCompileInputs.cache
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/obj/Debug/netcoreapp2.2/OrderMasterAPI.RazorAssemblyInfo.cache
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/obj/Debug/netcoreapp2.2/OrderMasterAPI.RazorAssemblyInfo.cs
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/obj/Debug/netcoreapp2.2/OrderMasterAPI.AssemblyInfoInputs.cache
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/obj/Debug/netcoreapp2.2/OrderMasterAPI.AssemblyInfo.cs
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/obj/Debug/netcoreapp2.2/OrderMasterAPI.RazorTargetAssemblyInfo.cache
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/obj/Debug/netcoreapp2.2/OrderMasterAPI.dll
+/Users/eduardosantos/OrderMaster/OrderMasterAPI/obj/Debug/netcoreapp2.2/OrderMasterAPI.pdb

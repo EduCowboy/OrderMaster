@@ -1,0 +1,11 @@
+[
+    {
+        "TypeName": "Administrador"
+    },
+    {
+        "TypeName": "Gerente"
+    },
+    {
+        "TypeName": "Vendedor"
+    }
+  ]

@@ -1,0 +1,51 @@
+[
+  {
+    "Username": "edusantos",
+    "Gender": 1,
+    "DateOfBirth": "1981-04-10",
+    "Password": "password",
+    "KnownAs": "Eduardo",
+    "Created": "2019-06-09",
+    "LastActive": "2019-06-09",
+    "Name": "Eduardo",
+    "LastName": "Santos",
+    "UserType": 1
+  },
+  {
+    "Username": "joaosilva",
+    "Gender": 1,
+    "DateOfBirth": "1984-12-02",
+    "Password": "password",
+    "KnownAs": "Joao",
+    "Created": "2019-06-09",
+    "LastActive": "2019-06-09",
+    "Name": "Joao",
+    "LastName": "Silva",
+    "UserType": 1
+  },
+  {
+    "Username": "deisebaiecijo",
+    "Gender": 2,
+    "DateOfBirth": "1976-09-03",
+    "Password": "password",
+    "KnownAs": "Deise",
+    "Created": "2019-06-09",
+    "LastActive": "2019-06-09",
+    "Name": "Deise",
+    "LastName": "Baiecijo",
+    "UserType": 2
+  },
+  {
+    "Username": "priscilafinoto",
+    "Gender": 2,
+    "DateOfBirth": "1994-05-24",
+    "Password": "password",
+    "KnownAs": "Priscila",
+    "Created": "2019-06-09",
+    "LastActive": "2019-06-09",
+    "Name": "Priscila",
+    "LastName": "Finoto",
+    "UserType": 3
+  }
+  
+]
